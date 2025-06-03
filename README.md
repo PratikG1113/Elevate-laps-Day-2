@@ -74,6 +74,6 @@ This GitHub repository was submitted as part of the Data Analyst Internship Task
 ---
 
 ## 📌 Author
-**Name:** *[Your Full Name]*  
+**Name:** *[Pratik Golatkar}*  
 **Role:** Data Analyst Intern  
 **Date:** June 2025
